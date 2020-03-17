@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Orange juad!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">505903306783116</string>
+    <string name="fb_login_protocol_scheme">fb505903306783116</string>
+
+</resources>
